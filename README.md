@@ -12,4 +12,8 @@ Assignment-6-Submission/
 Assignment-7-Submission/
 ├── BingYun_Wu_1012861039_assignment7.html
 └── BingYun_Wu_1012861039_assignment7.ipynb
+
+Assignment-8-Submission/
+├── BingYun_Wu_1012861039_assignment8.html
+└── BingYun_Wu_1012861039_assignment8.ipynb
 ```
